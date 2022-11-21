@@ -1,6 +1,5 @@
 let numero = Math.floor(Math.random() * 11);
 let opcao;
-let erros = 0;
 
 opcao = prompt(
   "Qual o valor que você deseja chutar? \nDICA: É um número inteiro de 0 a 10"
