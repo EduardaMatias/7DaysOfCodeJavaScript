@@ -1,7 +1,7 @@
 let carreira;
 let aprender;
 let desejo;
-let tecnologia = [];
+let tecnologia;
 let loop = true;
 
 do {
